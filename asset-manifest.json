@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WEB_Products_list_in_redux/static/css/main.e6c13ad2.css",
+    "main.js": "/WEB_Products_list_in_redux/static/js/main.2934dab5.js",
+    "index.html": "/WEB_Products_list_in_redux/index.html",
+    "main.e6c13ad2.css.map": "/WEB_Products_list_in_redux/static/css/main.e6c13ad2.css.map",
+    "main.2934dab5.js.map": "/WEB_Products_list_in_redux/static/js/main.2934dab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2934dab5.js"
+  ]
+}
